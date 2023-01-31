@@ -1,0 +1,7 @@
+\\et-fileserver\staff\pawnol\Desktop\EnterSameValue\bin\Debug\EnterSameValue.exe.config
+\\et-fileserver\staff\pawnol\Desktop\EnterSameValue\bin\Debug\EnterSameValue.exe
+\\et-fileserver\staff\pawnol\Desktop\EnterSameValue\bin\Debug\EnterSameValue.pdb
+\\et-fileserver\staff\pawnol\Desktop\EnterSameValue\obj\Debug\EnterSameValue.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\EnterSameValue\obj\Debug\EnterSameValue.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\EnterSameValue\obj\Debug\EnterSameValue.exe
+\\et-fileserver\staff\pawnol\Desktop\EnterSameValue\obj\Debug\EnterSameValue.pdb

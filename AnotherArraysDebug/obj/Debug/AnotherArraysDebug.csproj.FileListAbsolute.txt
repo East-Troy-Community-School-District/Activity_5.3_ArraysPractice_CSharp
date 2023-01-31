@@ -1,0 +1,6 @@
+\\et-fileserver\staff\pawnol\Desktop\AnotherArraysDebug\bin\Debug\AnotherArraysDebug.exe.config
+\\et-fileserver\staff\pawnol\Desktop\AnotherArraysDebug\bin\Debug\AnotherArraysDebug.exe
+\\et-fileserver\staff\pawnol\Desktop\AnotherArraysDebug\bin\Debug\AnotherArraysDebug.pdb
+\\et-fileserver\staff\pawnol\Desktop\AnotherArraysDebug\obj\Debug\AnotherArraysDebug.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\AnotherArraysDebug\obj\Debug\AnotherArraysDebug.exe
+\\et-fileserver\staff\pawnol\Desktop\AnotherArraysDebug\obj\Debug\AnotherArraysDebug.pdb

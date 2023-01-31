@@ -1,0 +1,6 @@
+\\et-fileserver\staff\pawnol\Desktop\Palindrome\bin\Debug\Palindrome.exe.config
+\\et-fileserver\staff\pawnol\Desktop\Palindrome\bin\Debug\Palindrome.exe
+\\et-fileserver\staff\pawnol\Desktop\Palindrome\bin\Debug\Palindrome.pdb
+\\et-fileserver\staff\pawnol\Desktop\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\Palindrome\obj\Debug\Palindrome.exe
+\\et-fileserver\staff\pawnol\Desktop\Palindrome\obj\Debug\Palindrome.pdb

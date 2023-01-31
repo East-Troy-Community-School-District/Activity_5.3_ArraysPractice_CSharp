@@ -1,0 +1,6 @@
+C:\Users\Nolan Pawelski\Desktop\ArraysDebug\bin\Debug\ArraysDebug.exe.config
+C:\Users\Nolan Pawelski\Desktop\ArraysDebug\bin\Debug\ArraysDebug.exe
+C:\Users\Nolan Pawelski\Desktop\ArraysDebug\bin\Debug\ArraysDebug.pdb
+C:\Users\Nolan Pawelski\Desktop\ArraysDebug\obj\Debug\ArraysDebug.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\ArraysDebug\obj\Debug\ArraysDebug.exe
+C:\Users\Nolan Pawelski\Desktop\ArraysDebug\obj\Debug\ArraysDebug.pdb

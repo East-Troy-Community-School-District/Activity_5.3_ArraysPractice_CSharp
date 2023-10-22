@@ -1,7 +1,8 @@
 ﻿/*
  * Count Words Starting with B
- * 1/31/2023
- * C#.NET I
+ * Pawelski
+ * 10/22/2023
+ * Developing Desktop Applications
  */
 
 using System;
